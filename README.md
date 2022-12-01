@@ -1,5 +1,9 @@
 # The Undergraduate's Guide To Research Software Engineering
 
+<p align="center">
+  <img src="book/logo.svg" />
+</p>
+
 This is a project under the [OLS-6](https://openlifesci.org/ols-6) cohort.
 
 ## Vision Statement
